@@ -67,7 +67,6 @@ cd && echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-f
          }
  fi
 
- PS1='$'
 alias games='cd && cd Termux-Games && bash games.sh'" > /data/data/com.termux/files/usr/etc/bash.bashrc
 
 echo "Visit www.LearnTermux.tech To learn Basic To Advance About Termux" | lolcat -a
