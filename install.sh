@@ -14,7 +14,6 @@ clear
 echo "play Games in Termux by-LearnTermux.tech"
 
 echo -e "\e[032m"
-pkg install openssl -y
 pkg install ruby -y && gem install lolcat
 pkg install figlet
 
