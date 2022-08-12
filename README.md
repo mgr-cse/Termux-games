@@ -42,4 +42,4 @@ visit : https://www.learntermux.tech/2020/02/Termux-Games-Script.html
 
 <br>
 
-💀<h3>Don't copy this code without give me the credits, nerd!</h3> <br>
+💀<h3>Credits to khansaad1275!</h3> <br>
